@@ -57,7 +57,7 @@
           <calledActivityName xmi:type="expression:Expression" xmi:id="__hSggwjeEe2Oa_dV04Jvpg" name="" content="" returnTypeFixed="true"/>
           <calledActivityVersion xmi:type="expression:Expression" xmi:id="__hSghAjeEe2Oa_dV04Jvpg" name="" content="" returnTypeFixed="true"/>
         </elements>
-        <elements xmi:type="process:CallActivity" xmi:id="_ARZu0AjfEe2Oa_dV04Jvpg" name="PRESENTACIÓN DEL INFORME FINAL" outgoing="_i--WkAjeEe2Oa_dV04Jvpg" incoming="_l4QtUAjdEe2Oa_dV04Jvpg">
+        <elements xmi:type="process:CallActivity" xmi:id="_ARZu0AjfEe2Oa_dV04Jvpg" name="SUSTENTACION" outgoing="_i--WkAjeEe2Oa_dV04Jvpg" incoming="_l4QtUAjdEe2Oa_dV04Jvpg">
           <dynamicLabel xmi:type="expression:Expression" xmi:id="_l3f4UAjdEe2Oa_dV04Jvpg" name="" content="" returnTypeFixed="true"/>
           <dynamicDescription xmi:type="expression:Expression" xmi:id="_l3fRQAjdEe2Oa_dV04Jvpg" name="" content="" returnTypeFixed="true"/>
           <stepSummary xmi:type="expression:Expression" xmi:id="_l3f4UQjdEe2Oa_dV04Jvpg" name="" content="" returnTypeFixed="true"/>
